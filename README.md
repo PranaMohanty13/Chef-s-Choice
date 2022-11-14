@@ -10,7 +10,7 @@
 
 ### Description
 
-Tasty Creations is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from to prepare at their own kitchen 
+Tasty Creations is an app that has hundreds of recipes from many different categories that food enthusiasts can choose from to prepare at their own kitchen.
 
 ### App Evaluation
 
@@ -56,7 +56,7 @@ There are challenges as we would be using a feature where the people can upload 
   - Receipes
     - Ability to search receipes with a search bar 
   - Dashboard
-    - To view the receipes that yu clicked on
+    - To view the receipes that you clicked on
 
 ### 3. Navigation
 
